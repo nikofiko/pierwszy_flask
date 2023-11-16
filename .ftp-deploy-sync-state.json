@@ -1,0 +1,19 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1700139036176,
+    "data": [
+        {
+            "type": "file",
+            "name": "myproject.py",
+            "size": 208,
+            "hash": "62cf49d1696b07a135414f2781ceb11d91a61c0b0f051f7ade2775b84abd37e5"
+        },
+        {
+            "type": "file",
+            "name": "requirements.txt",
+            "size": 176,
+            "hash": "e9cfb6c8a028f52bad9eaba415bc6c152b0c7525d9175b0b8620ad06e4552a9f"
+        }
+    ]
+}
