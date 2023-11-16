@@ -23,4 +23,5 @@ jobs:
         server: 172.203.217.47
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
+        server-dir: app_1/
     
